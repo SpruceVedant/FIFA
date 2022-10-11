@@ -1,0 +1,1 @@
+This project exposes a Web API for accessing historic data from the FIFA World Cup championship.
